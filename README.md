@@ -10,7 +10,9 @@ b.	Tính tổng, hiệu, tích, thương giữa chúng và xuất kết quả.
 📌3.	Viết chương trình nhập họ tên, điểm toán, điểm văn của một học sinh. Tính điểm trung bình và xuất kết quả.
 
 📌4.	
+
 a.	Viết chương trình nhập vào một mảng n (do người dùng nhập vào) phần tử là các số nguyên và xuất ra mảng theo thứ tự tăng dần.		
+
 b.	Xây dựng cấu trúc điểm biểu diễn điểm trong mặt phẳng Oxy (tọa độ là các số thực). Viết chương trình cho phép người dùng nhập vào n (do người dùng nhập vào) điểm và xuất ra 2 điểm có khoảng cách lớn nhất trong các điểm vừa nhập.
 
 📌5.	  Dựa vào bài 1.b, xây dựng phương thức thiết lập giá trị (SetDiem) gồm 3 thành phần:
