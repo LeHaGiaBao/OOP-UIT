@@ -1,5 +1,6 @@
 **BÀI THỰC HÀNH TUẦN 1**
-Lưu ý sử dụng struct để định nghĩa kiểu dữ liệu
+(Lưu ý sử dụng struct để định nghĩa kiểu dữ liệu)
+
 📌1.	Viết chương trình nhập vào hai phân số (không âm), 
 a.	tìm phân số lớn nhất và xuất kết quả.
 b.	Tính tổng, hiệu, tích, thương giữa chúng và xuất kết quả.
