@@ -60,13 +60,21 @@ Diem *ds;
 📌2.	Làm lại bài phân số với các phương thức thiết lập cho phép sử dụng một số nguyên như một phân số đặc biệt (mẫu số bằng 1). Định nghĩa các phép toán +, -, *, /, = =, !=, trên phân số. Định nghĩa phép toán << và >> để xuất và nhập dữ liệu vào phân số.
 
 📌3.	Định nghĩa lớp dữ liệu CTimeSpan để biểu diễn khái niệm khoảng thời gian, các hàm thành phần và các phép toán cần thiết. 
+
 bool operator==(CTimeSpan span);
+
 bool operator!=(CTimeSpan span) ;
+
 bool operator<(CTimeSpan span) ;
+
 bool operator>(CTimeSpan span) ;
+
 bool operator<=(CTimeSpan span) ;
+
 bool operator>=(CTimeSpan span) ;
- >>, <<
+
+>>, <<
+
 📌4.	Định nghĩa lớp CTime biểu diễn khái niệm thời điểm có các thành phần giờ phút giây. Định nghĩa các phép toán +, - (cộng, trừ thêm một số nguyên giây), - (phép trừ hai CTime để được một CTimSpan), ++, -- (thêm bớt một giây). Phép toán <<, >> để xuất, nhập dữ liệu loại CTime. 
 
 📌5.	Định nghĩa lớp CDate biểu diễn khái niệm ngày, tháng, năm với các phép toán +, - (cộng, trừ thêm một số ngày), ++, -- (thêm bớt một ngày), - (khoảng cách giữa hai CDate tính bằng ngày). Phép toán <<, >> để xuất, nhập dữ liệu loại CDate. 
