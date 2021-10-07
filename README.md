@@ -73,7 +73,8 @@ bool operator<=(CTimeSpan span) ;
 
 bool operator>=(CTimeSpan span) ;
 
->>, <<
+operator>>; 
+operator<<
 
 📌4.	Định nghĩa lớp CTime biểu diễn khái niệm thời điểm có các thành phần giờ phút giây. Định nghĩa các phép toán +, - (cộng, trừ thêm một số nguyên giây), - (phép trừ hai CTime để được một CTimSpan), ++, -- (thêm bớt một giây). Phép toán <<, >> để xuất, nhập dữ liệu loại CTime. 
 
