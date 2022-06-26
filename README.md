@@ -1,4 +1,14 @@
-**BÀI THỰC HÀNH TUẦN 1**
+**<h1>LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG</h1>**
+
+<div align="center">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/LeHaGiaBao/OOP-UIT?style=for-the-badge)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GitHub forks](https://img.shields.io/github/forks/LeHaGiaBao/OOP-UIT?style=for-the-badge)
+
+</div>
+
+**👉 BÀI THỰC HÀNH TUẦN 1**
 (Lưu ý sử dụng struct để định nghĩa kiểu dữ liệu)
 
 📌1.	Viết chương trình nhập vào hai phân số (không âm), 
@@ -25,7 +35,7 @@ Trong đó tham số 2 và 3 là 2 tham số mặc nhiên (=0). Viết chương 
 -	Nếu i%3==2: không nhập vào hoành độ và tung độ và gọi phương thức SetDiem với 1 giá trị tryền vào cho tham số 1.
 Xuất ra tọa độ tất cả các điểm và xuất ra 2 điểm có khoảng cách lớn nhất trong các điểm vừa nhập.
 
-**BÀI THỰC HÀNH TUẦN 2**
+**👉 BÀI THỰC HÀNH TUẦN 2**
 📌1.	Thiết lập lớp PhanSo để biểu diễn khái niệm phân số với hai thành phần dữ liệu tử số, mẫu số và các hàm thành phần cộng, trừ, nhân, chia hai phân số, các hàm thành phần xuất, nhập, định giá trị cho phân số. Viết chương trình cho phép nhập vào hai phân số, in ra kết quả các phép toán cộng, trừ, nhân, chia hai phân số kể trên.
 
 📌2.	Xây dựng lớp biểu diễn khái niệm số phức với hai thành phần dữ liệu thực, ảo và các hàm thành phần xuất, nhập, định giá trị cho số phức, cộng, trừ, nhân, chia hai số phức. Viết chương trình cho phép nhập vào hai số phức, in ra kết quả các phép toán cộng, trừ, nhân, chia hai số phức kể trên.
@@ -42,7 +52,7 @@ Xây dựng lớp TestCandidate để kiểm tra lớp trên:
 
 📌4.	Thiết lập lớp biểu diễn khái niệm điểm trong mặt phẳng với hai thành phần dữ liệu hoành độ và tung độ. Viết các phương thức thiết lập, các hàm thành phần cho phép thay đổi nội dung của điểm, lấy hoành độ, tung độ, tịnh tiến, quay, nhập, xuất một điểm.
 
-**BÀI THỰC HÀNH TUẦN 3**
+**👉 BÀI THỰC HÀNH TUẦN 3**
 📌1.	Thiết lập lớp biểu diễn khái niệm điểm trong mặt phẳng với hai thành phần dữ liệu hoành độ và tung độ. Viết các phương thức thiết lập, các hàm thành phần cho phép thay đổi nội dung của điểm, lấy hoành độ, tung độ, tịnh tiến, quay, nhập, xuất một điểm.
 
 📌2.	Viết định nghĩa lớp TamGiac để biểu diễn khái niệm tam giác trong mặt phẳng với các phương thức thiết lập, huỷ bỏ (nếu có). Các hàm thành phần nhập, xuất, tịnh tiến, quay, phóng to, thu nhỏ.
@@ -54,7 +64,7 @@ Diem *ds;
 
 📌4.	Viết định nghĩa lớp biểu diễn khái niệm thời gian với các thành phần dữ liệu giờ, phút, giây với các thao tác thích hợp.
 
-**BÀI THỰC HÀNH TUẦN 4**
+**👉 BÀI THỰC HÀNH TUẦN 4**
 📌1.	Làm lại bài số phức với một phương thức thiết lập duy nhất cho phép quan điểm một số thực như một số phức đặc biệt (phần ảo bằng 0). Định nghĩa các phép toán +, -, *, /, = =, !=, trên số phức. Định nghĩa phép toán << và >> để xuất và nhập dữ liệu vào số phức.
 
 📌2.	Làm lại bài phân số với các phương thức thiết lập cho phép sử dụng một số nguyên như một phân số đặc biệt (mẫu số bằng 1). Định nghĩa các phép toán +, -, *, /, = =, !=, trên phân số. Định nghĩa phép toán << và >> để xuất và nhập dữ liệu vào phân số.
@@ -83,7 +93,7 @@ Tang() operator ++(int) { tang()} giam;
 Mốc só 1 cái gì đó. 0 ,0, 0 -> date1 => tinh so ngay1, date2 -> ngay2 ngay2- ngay1;
 Dd/mm/yyy nho hon ++, cout until date1 == date2  => count day
 
-**BÀI THỰC HÀNH TUẦN 5**
+**👉 BÀI THỰC HÀNH TUẦN 5**
 
 📌1.	Giả sử Công ty có hai loại nhân viên: Nhân viên văn phòng và Nhân viên sản xuất. Viết chương trình quản lý và tính lương cho từng nhân viên của công ty:
 Mỗi nhân viên cần quản lý các thông tin sau: Họ tên, ngày sinh, lương
