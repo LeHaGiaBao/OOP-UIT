@@ -1,13 +1,5 @@
 **<h1>LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG</h1>**
 
-<div align="center">
-
-![GitHub repo size](https://img.shields.io/github/repo-size/LeHaGiaBao/OOP-UIT?style=for-the-badge)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![GitHub forks](https://img.shields.io/github/forks/LeHaGiaBao/OOP-UIT?style=for-the-badge)
-
-</div>
-
 **👉 BÀI THỰC HÀNH TUẦN 1**
 (Lưu ý sử dụng struct để định nghĩa kiểu dữ liệu)
 
